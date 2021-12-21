@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajhab9717
+- 👀 I’m interested in C++, C#, C, CSS, lua
+- 🌱 I’m currently learning C#, C++, lua
+- 📫 How to reach me on Discord: Gen. Rajhab#1560
